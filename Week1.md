@@ -18,6 +18,6 @@
 ## Daily Goals
 
 #### Wednesday 26th January
-- GOAL: To ensure my understanding of the 'why', 'when', and 'how' aspects of Test Driven Development.
-- PLAN: To read through the 'The 4 phases of a test' and the 'The three rules of TDD' resources provided in the course content and try to complete at least one practical.
-- EVIDENCE:
+- GOAL: To ensure my understanding of the 'why', 'when', and 'how' aspects of Test Driven Development. To understand the difference between unit and feature tests. Become comfortable with how to present user stories in diagram format.
+- PLAN: To read through the ['The 4 phases of a test'](https://thoughtbot.com/blog/four-phase-test) and the ['The three rules of TDD'](https://gist.github.com/R4wm/a0ea5cba323d945625141e0c98238c64) resources provided in the course content and try to complete at least one practical. Read through the ['Decision tree'](https://en.wikipedia.org/wiki/Decision_tree) article. Read through [this article](https://mixandgo.com/learn/ruby-on-rails/feature-vs-integration-vs-unit-tests) on feature/unit tests.
+- EVIDENCE: Completed reading and the ['Design Strategies'](https://github.com/SarahM55/design_strategies_1.git) practical exercise.
