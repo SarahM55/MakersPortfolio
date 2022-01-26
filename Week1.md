@@ -18,6 +18,6 @@
 ## Daily Goals
 
 #### Wednesday 26th January
-GOAL: To ensure my understanding of the 'why', 'when', and 'how' aspects of Test Driven Development.
-PLAN: To read through the 'The 4 phases of a test' and the 'The three rules of TDD' resources provided in the course content and try to complete at least one practical.
-EVIDENCE:
+- GOAL: To ensure my understanding of the 'why', 'when', and 'how' aspects of Test Driven Development.
+- PLAN: To read through the 'The 4 phases of a test' and the 'The three rules of TDD' resources provided in the course content and try to complete at least one practical.
+- EVIDENCE:
