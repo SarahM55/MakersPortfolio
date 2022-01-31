@@ -7,14 +7,18 @@
 - Describe some basic OO principles like encapsulation, SRP.
 
 #### How I will achieve this:
-- Attend the TDD workshop on Day 2 and complete the 'Boris Bikes' pair programming exercise.
+- Attend the TDD workshop on Day 2 and work through the 'Boris Bikes' pair programming exercise.
 - Work through TDD exercises and practicals provided in the course resources. 
 - Spend 4 hours each day working with a different pair programming partner (following best practices to maintain collaborative repositories). Request feedback from each partner.
 - Attend the Debugging workshop on Day 4 and debug at least 2 Ruby programs which have multiple syntax and testing errors.
-- Read the 00 resourced and Work through the exercises provided in the course week outline.
+- Read the OO resources and Work through the exercises provided in the course week outline.
 
 #### Evidence that I have achieved this:
 1. **Boris Bikes** - Exhaustive step-wise Boris Bikes challenge [here](https://github.com/SarahM55/boris_bikes.git) - commits demonstrate different stages of unit and feature testing. Completed over a week of pair programming with different partners.
+2. **Airport Challenge** - Followed a client's specification to write a program to govern the taking off and landing of planes (with edge cases). Demonstrated TDD and SRP. Repo [here](https://github.com/SarahM55/airport_challenge.git).
+3. Completed a simple exercise demonstrating understanding of TDD. Repo [here](https://github.com/SarahM55/design_strategies_1.git).
+4. Debugged some erroneous scripts. Repo [here](https://github.com/SarahM55/Debugging-Approaches.git).
+5. **Calculator Challenge** - Demonstrated understanding of OOP and SRP for classes. Repo [here](https://github.com/SarahM55/skills-workshops/tree/main/test_driven_development/oop_1).
 
 
 ## Daily Goals
@@ -31,7 +35,16 @@
 - EVIDENCE: Watched video. Completed the ['Debugging Approaches'](https://github.com/SarahM55/Debugging-Approaches) practical exercise.
 
 
-#### Friday 28th January
+#### Friday 28th January ✅
 - GOAL: Understand some basic principles of OO programming - encapsulation and SRP.
 - PLAN: Read the ['Encapsulation'](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29) resource. Do some reading around SRP. Work through the OO exercises from the course resources.
 - EVIDENCE: 'Calculator' exercise from skills repository - completed [here](https://github.com/SarahM55/skills-workshops/tree/main/test_driven_development/oop_1) with image of IRB test.
+
+
+# Reflection
+
+### Question 1
+*Did you meet all of your goals to the standard you set at the start of the week?*
+
+### Question 2
+*What would you change/improve moving forward?*
