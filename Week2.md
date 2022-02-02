@@ -19,7 +19,13 @@
 
 ## Daily Goals
 
-#### Monday 31st January
+#### Monday 31st January ✅
 - GOAL: To review my partner's code from the 'airport' weekend challenge.
 - PLAN: To complete the code review and give feedback where necessary.
-- EVIDENCE: 
+- EVIDENCE: Completed on 31/01 - held by Makers.
+
+
+#### Tuesday 1st February ✅
+- GOAL: To understand Gemfiles (struggled with this at the start of the Oystercard exercise).
+- PLAN: To read through all of the resources provided in the challenge walkthrough.
+- EVIDENCE: Read all of the Gemfile resources from the [challenge outline](https://github.com/makersacademy/course/blob/main/oystercard/01_create_gemfile.md), as well as some additional online resources.
