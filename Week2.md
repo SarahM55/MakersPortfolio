@@ -14,7 +14,9 @@
 - Work through the OOP and mocking practicals/resources provided in the course materials to ensure understanding.
 
 #### Evidence that I have achieved this:
-1. **Oystercard Challenge** -
+1. **Oystercard Challenge** - Demonstrates examples of splitting and refactoring classes, as well as unit testing classes in isolation using mocking. Repo [here](https://github.com/SarahM55/Oystercard-Challenge.git).
+2. Continued to use Week 1's skill - practiced TDD and Debugging via the Oystercard challenge, and improved understanding of OOP by refactoring the program.
+3. 
 
 
 ## Daily Goals
@@ -29,3 +31,17 @@
 - GOAL: To understand Gemfiles (struggled with this at the start of the Oystercard exercise).
 - PLAN: To read through all of the resources provided in the challenge walkthrough.
 - EVIDENCE: Read all of the Gemfile resources from the [challenge outline](https://github.com/makersacademy/course/blob/main/oystercard/01_create_gemfile.md), as well as some additional online resources.
+
+
+#### Friday 4th February ⏳
+- GOAL: To understand class polymorphism.
+- PLAN: Go through the Polymorphism skills workshop from the course outline. Complete the 'OO Relationships 1 (Forwarding, Polymorphism)' practical.
+
+
+# Reflection
+
+### Question 1
+*Did you meet all of your goals to the standard you set at the start of the week?*
+
+### Question 2
+*What would you change/improve moving forward?*
