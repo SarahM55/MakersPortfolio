@@ -45,6 +45,12 @@
 
 ### Question 1
 *Did you meet all of your goals to the standard you set at the start of the week?*
+- Yes, I feel that my confidence with TDD and my practices in particular have really improved. I was able to make a good attempt at the Airport Challenge which is something that I wouldn't even have known how to approach before this week.
+- My debugging skills have also greatly improved - instead of panicking when I get an error message, I'm able to work through it logically to solve the problem.
+- I've really enjoyed paired programming - I've had a lot of nice feedback from my partners and as someone who usually prefers to work alone, I've really benefitted from being able to bounce ideas off someone else and look to them for guidance.
+
 
 ### Question 2
 *What would you change/improve moving forward?*
+- I feel more knowledgeable when it comes to OOP, but I would like more time to do some more practicals.
+- I'd like to be more strict with taking breaks during paired programming. Once I get stuck into it, I often don't realise the time passing until I suddenly feel exhausted.

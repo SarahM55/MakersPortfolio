@@ -17,7 +17,7 @@
 
 ## Daily Goals
 
-#### Monday 7th February
+#### Monday 7th February ✅
 - GOAL: To verify my understanding of how the web works.
 - PLAN: To read through the provided materials and do my own research.
 - EVIDENCE: Read through this [article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) on how the web works. Watched this [video](https://www.youtube.com/watch?v=7_LPdttKXPc&ab_channel=Aaron). Read this [article](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#clients_and_servers) on how one part of the web communicates with another.
