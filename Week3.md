@@ -41,7 +41,7 @@
 - EVIDENCE: 
 
 
-#### Friday 11th February
+#### Friday 11th February ✅
 - GOAL: To consolidate my understanding of how the different files within my Battle app are interacting.
 - PLAN: To create a process model of the Battle app.
 - EVIDENCE: Process model repo [here](https://github.com/SarahM55/Battle-Process-Modelling.git).
