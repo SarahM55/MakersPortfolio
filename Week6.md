@@ -19,4 +19,4 @@
 #### Monday 28th February
 - GOAL: To introduce myself to Javascript and how it differs to Ruby.
 - PLAN: To read through the resources provided in the weekly outline.
-- EVIDENCE: 
+- EVIDENCE: Read [JavaScript Versions](https://www.codecademy.com/article/javascript-versions). Read [JS Functions](https://github.com/makersacademy/course/blob/main/pills/js_functions.md). Read [Ruby vs JavaScript: Compared and Contrasted](https://careerkarma.com/blog/ruby-vs-javascript/#:~:text=In%20short%2C%20Ruby%20is%20an,one%20languages%20on%20the%20web.).
